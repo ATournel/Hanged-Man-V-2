@@ -1,1 +1,1 @@
-# Hanged-Man-V-2
+Second version of the Hanged Man game.
